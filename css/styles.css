@@ -46,13 +46,15 @@ body {
 
 
 .habilidades {
-  display: inline-block;
-  margin: 60px auto;
-  font-size: 1.3em;
+  display: block;
+  margin: 100px auto;
+  font-size: 1.5em;
   color: #07456f;
   position: absolute;
-  top: 120%;
+  top: 110%;
   text-align: center;
+  left: 0;;
+  right: 0;
 }
 
 .habilidade-1 {
@@ -71,7 +73,42 @@ body {
   box-shadow: 2px 2px 20px;
 
 }
+.habilidade-2 {
+  background-color: white;
+  width: 524.609px;
+  height: 210.813px;
+  padding: 30px;
+  position: absolute;
+  display: block;
+  margin: 100px auto;
+  text-align: center;
+  top: 200%;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  box-shadow: 2px 2px 20px;
 
+}
+.habilidade-3 {
+  background-color: white;
+  width: 524.609px;
+  height: 210.813px;
+  padding: 30px;
+  position: absolute;
+  display: block;
+  margin: 100px auto;
+  text-align: center;
+  top: 250%;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  box-shadow: 2px 2px 20px;
+
+}
+
+.habilidade-3 p {
+  font-size: 1.2em;
+}
 .texto-nome {
   font-family: 'Playfair Display', serif;
 }
