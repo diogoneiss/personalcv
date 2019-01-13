@@ -1,5 +1,5 @@
 body {
-  background-color: #d6f8b8;
+  background-color: #cdffeb;
   font-family: Montserrat, sans-serif;
   color: #555;
   margin: 0;
@@ -7,44 +7,11 @@ body {
   line-height: 1.5;
   padding: 4em 1em;
 }
-/* #conteiner-1 {
-  margin: 0 auto 150px auto;
-  padding: 10px;
-  height: 300px;
-  width: 100%;
-  position: absolute;
-  display: inline-block;
-}
-.nome {
-  background-color: #8fbbaf;
-  width: 37.12%;
-  height: 100px;
-  box-shadow: 3px 5px 10px;
-  border-radius: 12%;
-  padding: 30px;
-  margin: 50px auto;
-  text-shadow: 2px 2px 10px black;
-  text-align: center;
-  font-weight: bold;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-}
-h1 {
-  margin-top: 10px;
-  margin-left: 0;
-  color: #333;
-}
-.texto-nome {color: #acdeaa;}
-img {
-  position: relative;
-  display: inline-block;
-}
-*/
-.conteiner-1 {
-  background-image: url('https://files.catbox.moe/cwf2mb.png');
+
+
+.header {
+  background-image: url('https://wallup.net/wp-content/uploads/2017/11/22/340624-mountains-minimalism-red.jpg');
+  background-clip: padding-box;
   background-size: cover;
   background-repeat: no-repeat;
   width: 1280px;
@@ -59,23 +26,12 @@ img {
   right: 0;
   text-align: center;
   color: white;
-  text-shadow: 3px 3px 8px #555;
-  font-size: 1.5em;
-
+  text-shadow: 3px 3px 20px black;
+  font-size: 1.7em;
+  box-shadow: 2px 2px 20px;
 }
 
 
-/*.mountains {
-  width: 70%;
-  position: absolute;
-  margin: auto;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  box-shadow: 2px 2px 20px;
-
-} */
 .conteiner-2 {
   position: absolute;
   height: 500px;
@@ -87,6 +43,18 @@ img {
   bottom: 0;
   display: inline-block;
 }
+
+
+.habilidades {
+  display: inline-block;
+  margin: 60px auto;
+  font-size: 1.3em;
+  color: #07456f;
+  position: absolute;
+  top: 120%;
+  text-align: center;
+}
+
 .habilidade-1 {
   background-color: white;
   width: 524.609px;
@@ -104,6 +72,9 @@ img {
 
 }
 
+.texto-nome {
+  font-family: 'Playfair Display', serif;
+}
 h2 {
-  color: aqua;
+  color: #0f0a3c;
 }
