@@ -10,6 +10,7 @@ body {
 
 h2 {
   color: #0f0a3c;
+  font-size: large;
 }
 
 header {
@@ -102,7 +103,36 @@ header {
   box-shadow: 2px 2px 20px;
 
 }
+
+.habilidade-3 p {
+  font-size: 1.2em;
+}
+
 .habilidade-3 {
+  background-color: white;
+  width: 524.609px;
+  height: 700px;
+  padding: 30px;
+  position: absolute;
+  display: block;
+  margin: 100px auto;
+  text-align: center;
+  top: 250%;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  box-shadow: 2px 2px 20px;
+}
+
+div h2 {
+  font-size: 1.6em;
+}
+
+div h4 {
+  font-size: 1.1em;
+}
+
+.habilidade-4 {
   background-color: white;
   width: 524.609px;
   height: 210.813px;
@@ -111,7 +141,7 @@ header {
   display: block;
   margin: 100px auto;
   text-align: center;
-  top: 650%;
+  top: 400%;
   bottom: 0;
   right: 0;
   left: 0;
@@ -119,9 +149,6 @@ header {
 
 }
 
-.habilidade-3 p {
-  font-size: 1.2em;
-}
 .texto-nome {
   font-family: 'Playfair Display', serif;
 }
@@ -143,7 +170,7 @@ header {
   margin: 100px auto;
   position: absolute;
   display: block;
-  top: 310%;
+  top: 580%;
   text-align: center;
   max-width: 190px;
   max-height: 100px;
@@ -165,8 +192,8 @@ header {
   position: absolute;
   margin: 100px auto 0;
   background-color: #393e46;
-  height: 15%;
-  top: 350%;
+  height: 18%;
+  top: 600%;
   padding: 16px 16px 0 16px;
   left: 0;
   right: 0;
@@ -180,34 +207,24 @@ header {
   font-size: 2em;
   text-decoration: none;
   font-weight: bold;
-
-}
-
-.footer p {
-  color: #cdffeb;
-  font-size: 1em;
-  margin: 2em;
-}
+  }
 
 .hyperlink:hover {
   color: aqua
 }
 
+.fonteImagens {
+  color: #cdffeb;
+  position: relative;
+  margin: 1em;
+  font-size: 1em;
+  text-decoration: none;
+  font-weight: normal;
+}
 
-
-.habilidade-4 {
-  background-color: white;
-  width: 524.609px;
-  height: 700px;
-  padding: 30px;
-  position: absolute;
-  display: block;
-  margin: 100px auto;
-  text-align: center;
-  top: 250%;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  box-shadow: 2px 2px 20px;
-
+.meuNome {
+  color: #6593F5;
+  font-size: 1.6em;
+  
+  font-style: italic;
 }
