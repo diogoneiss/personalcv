@@ -111,7 +111,7 @@ header {
 .habilidade-3 {
   background-color: white;
   width: 524.609px;
-  height: 700px;
+  height: 650px;
   padding: 30px;
   position: absolute;
   display: block;
@@ -141,7 +141,7 @@ div h4 {
   display: block;
   margin: 100px auto;
   text-align: center;
-  top: 400%;
+  top: 360%;
   bottom: 0;
   right: 0;
   left: 0;
@@ -170,7 +170,7 @@ div h4 {
   margin: 100px auto;
   position: absolute;
   display: block;
-  top: 580%;
+  top: 430%;
   text-align: center;
   max-width: 190px;
   max-height: 100px;
@@ -193,7 +193,7 @@ div h4 {
   margin: 100px auto 0;
   background-color: #393e46;
   height: 18%;
-  top: 600%;
+  top: 450%;
   padding: 16px 16px 0 16px;
   left: 0;
   right: 0;
